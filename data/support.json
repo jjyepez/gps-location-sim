@@ -1,0 +1,14 @@
+{
+    "types": [
+        {"T1":"car"},
+        {"T2":"moto"},
+        {"T3":"truck"}
+    ],
+    "colors": [
+        {"C1":"red"},
+        {"C2":"blue"},
+        {"C3":"white"},
+        {"C4":"grey"},
+        {"C5":"black"}
+    ]
+}

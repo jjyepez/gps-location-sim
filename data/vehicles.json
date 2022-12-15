@@ -1,0 +1,10 @@
+{
+    "vehicles": [
+        {
+            "id"   : 1401,
+            "plate": "A23-001",
+            "type" : "car",
+            "color": "red"
+        }
+    ]
+}
