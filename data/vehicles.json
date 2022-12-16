@@ -2,9 +2,21 @@
     "vehicles": [
         {
             "id"   : 1401,
-            "plate": "A23-001",
+            "plate": "ITG-733",
             "type" : "car",
             "color": "red"
+        },
+        {
+            "id"   : 1402,
+            "plate": "571-KIJ",
+            "type" : "truck",
+            "color": "white"
+        },
+        {
+            "id"   : 1403,
+            "plate": "A55-907",
+            "type" : "moto",
+            "color": "blue"
         }
     ]
 }

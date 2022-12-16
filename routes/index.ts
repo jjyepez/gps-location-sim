@@ -8,7 +8,7 @@ export const router = Router();
 
 router
 
-    .get('/vehicles', vehicles)
+    .use('/vehicles', vehicles)
     
     .get('/support', (req, res, next) => {
         const jsonFile = path.join(__dirname, '../data/support.json');
